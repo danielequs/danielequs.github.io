@@ -2,6 +2,8 @@
 
 I'll develop content for [this page](https://danielequs.github.io) over time ...
 
+I'll also want to [clone this repository on my git client (GitHub Desktop) and create an index.html](https://pages.github.com) (or index.md?) file for it.
+
 For now I'll just link to [Roy Mendelssohn's Page](https://rmendels.github.io) for some resources I use.
 
 ...
