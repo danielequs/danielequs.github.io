@@ -1,6 +1,6 @@
 ## Listing of my pages on GitHub
 
-I'll develop content for this page over time...
+I'll develop content for [this page](https://danielequs.github.io) over time ...
 
 For now I'll just link to [Roy Mendelssohn's Page](https://rmendels.github.io) for some resources I use.
 
