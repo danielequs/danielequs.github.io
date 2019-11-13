@@ -1,5 +1,12 @@
 ## Listing of my pages on GitHub
 
+I'll develop content for this page over time...
+
+For now I'll just link to [Roy Mendelssohn's Page](https://rmendels.github.io) for some resources I use.
+
+...
+
+
 You can use the [editor on GitHub](https://github.com/danielequs/danielequs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
