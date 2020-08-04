@@ -1,9 +1,11 @@
 ## Listing of my pages on GitHub
 
-I'll develop content for [this user page](https://danielequs.github.io) over time as well as for dedicated project pages for my [GitHub repositories](https://github.com/danielequs).
-Note to self: I'll want to [clone this repository on my git client (GitHub Desktop) and create an index.html](https://pages.github.com) (or index.md?) file for it.
+Over time I will develop content for [this user page](https://danielequs.github.io) as well as for dedicated project pages for my [GitHub repositories](https://github.com/danielequs).
+Note to self 1: I will want to [clone this repository on my git client (GitHub Desktop) and create an index.html](https://pages.github.com) (or index.md?) file for it, or make it an RStudio project.
 
-I may use this GitHub user page to complement my [profile page](https://mmi.oregonstate.edu/people/daniel-m-palacios) at Oregon State University's Marine Mammal Institute, using [Hugo](https://gohugo.io) and [blogdown](https://github.com/rstudio/blogdown) in RStudio's R Markdown. I may also use it as a blog for our research lab, the [Whale Habitat, Ecology & Telemetry (WHET) Lab](https://mmi.oregonstate.edu/wtg).
+I may use this GitHub user page to complement my [profile page](https://mmi.oregonstate.edu/people/daniel-m-palacios) at Oregon State University's Marine Mammal Institute. I may also use it as a blog for our research lab, the [Whale Habitat, Ecology & Telemetry (WHET) Lab](https://mmi.oregonstate.edu/wtg).
+Note to self 2: [Hugo](https://gohugo.io) with the [Mainroad theme](https://github.com/Vimux/Mainroad/) or [blogdown](https://github.com/rstudio/blogdown) in RStudio's R Markdown look like good choices, with free HTTPS hosting by [Netlify](https://www.netlify.com).
+
 
 For now I'll just link to the pages of several folks I follow:
 - [Roy Mendelssohn's Page](https://rmendels.github.io)
