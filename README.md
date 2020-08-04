@@ -1,8 +1,7 @@
 ## Listing of my pages on GitHub
 
-I'll develop content for [this page](https://danielequs.github.io) over time ...
-
-I'll want to [clone this repository on my git client (GitHub Desktop) and create an index.html](https://pages.github.com) (or index.md?) file for it.
+I'll develop content for [this user page](https://danielequs.github.io) over time as well as for dedicated project pages.
+(Note to self: I'll want to [clone this repository on my git client (GitHub Desktop) and create an index.html](https://pages.github.com) (or index.md?) file for it.)
 
 I may end up using this GitHub user page as a blog for our research lab at Oregon State University's Marine Mammal Institute, the [Whale Habitat, Ecology & Telemetry (WHET) Lab](https://mmi.oregonstate.edu/wtg) using [Hugo](https://gohugo.io) and [blogdown](https://github.com/rstudio/blogdown) in RStudio's R Markdown.
 
