@@ -4,7 +4,16 @@ I'll develop content for [this page](https://danielequs.github.io) over time ...
 
 I'll also want to [clone this repository on my git client (GitHub Desktop) and create an index.html](https://pages.github.com) (or index.md?) file for it.
 
-For now I'll just link to [Roy Mendelssohn's Page](https://rmendels.github.io) for some resources I use.
+For now I'll just link to the pages of several folks I follow:
+- [Roy Mendelssohn's Page](https://rmendels.github.io)
+- [Eric Archer's Page](https://rmendels.github.io)
+- [Michael Sumner's Page](http://mdsumner.github.io/)
+- [Mathieu Basille's Page](https://mablab.org)
+- [Maëlle Salmon's Page](https://masalmon.eu)
+- [Jakub Nowosad's Page](https://nowosad.github.io)
+- [Thomas Guillerme's Page](http://tguillerme.github.io)
+
+
 
 ...
 
