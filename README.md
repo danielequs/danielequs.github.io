@@ -2,7 +2,9 @@
 
 I'll develop content for [this page](https://danielequs.github.io) over time ...
 
-I'll also want to [clone this repository on my git client (GitHub Desktop) and create an index.html](https://pages.github.com) (or index.md?) file for it.
+I'll want to [clone this repository on my git client (GitHub Desktop) and create an index.html](https://pages.github.com) (or index.md?) file for it.
+
+I may end up using this GitHub user page as a blog for our research lab at Oregon State University's Marine Mammal Institute, the [Whale Habitat, Ecology & Telemetry (WHET) Lab](https://mmi.oregonstate.edu/wtg) using [Hugo](https://gohugo.io).
 
 For now I'll just link to the pages of several folks I follow:
 - [Roy Mendelssohn's Page](https://rmendels.github.io)
