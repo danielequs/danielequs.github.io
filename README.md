@@ -8,9 +8,10 @@ Note to self 2: [Hugo](https://gohugo.io) with the [Mainroad theme](https://gith
 
 
 For now I'll just link to the pages of several folks I follow:
+- [Olivier Gimenez's Page](https://oliviergimenez.github.io)
 - [Roy Mendelssohn's Page](https://rmendels.github.io)
 - [Eric Archer's Page](https://rmendels.github.io)
-- [Michael Sumner's Page](http://mdsumner.github.io/)
+- [Michael Sumner's Page](http://mdsumner.github.io)
 - [Mathieu Basille's Page](https://mablab.org)
 - [Maëlle Salmon's Page](https://masalmon.eu)
 - [Jakub Nowosad's Page](https://nowosad.github.io)
