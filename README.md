@@ -9,6 +9,7 @@ Note to self 2: [Hugo](https://gohugo.io) with the [Mainroad theme](https://gith
 
 For now I'll just link to the pages of several folks I follow:
 - [Olivier Gimenez's Page](https://oliviergimenez.github.io)
+- [Rocio Joo's Page](https://rociojoo.github.io)
 - [Roy Mendelssohn's Page](https://rmendels.github.io)
 - [Eric Archer's Page](https://rmendels.github.io)
 - [Michael Sumner's Page](http://mdsumner.github.io)
