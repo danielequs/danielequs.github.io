@@ -17,6 +17,7 @@ For now I'll just link to the pages of several folks I follow:
 - [Maëlle Salmon's Page](https://masalmon.eu)
 - [Jakub Nowosad's Page](https://nowosad.github.io)
 - [Thomas Guillerme's Page](http://tguillerme.github.io)
+- [Eduardo Cotilla-Sanchez's Page](https://ecotillasanchez.github.io/)
 
 
 
